@@ -1,0 +1,7 @@
+{
+  "name": "TestingDeepLinks",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
